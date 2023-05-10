@@ -1,0 +1,22 @@
+body {
+  background-image: url("bugatti.jpg");
+  background-size: cover;
+  max-height: fit-content;
+}
+.container {
+  margin-top: 7em;
+}
+span {
+  font-size: 3rem;
+  background-color: #00bb00;
+  padding: 2px 12px;
+  margin-left: 16px;
+  margin-right: 16px;
+  border-radius: 4px;
+  color: #fff;
+}
+.footer{
+    background-color: #fff;
+    text-align: center;
+    margin-top: 53.7em;
+}
